@@ -7,7 +7,7 @@
 3rd Step: So, you need to Paste in xampp/htdocs/
 
 
-Further, Now Connecting Database
+**Further, Now Connecting Database**
 
 
 4th Step: So, for now, Open a browser and go to URL “http://localhost/phpmyadmin/”
@@ -21,7 +21,7 @@ Further, Now Connecting Database
 8th Step: Meanwhile, click on Go button.
 
 
-After Creating Database,
+**After Creating Database,**
 
 
 9th Step: Moreover, Open a browser and go to URL “http://localhost/automaticTT”
@@ -29,22 +29,22 @@ After Creating Database,
 
 **LOGIN DETAILS**
 
-Admin Login:-
+**Admin Login:-**
 
-ID      : jenil@gmail.com
+  ID      : jenil@gmail.com
 
-Pass : abc@123
-
-
-Student Login:-
-
-ID      : 2105101130
-
-Pass : Jenil
+  Pass : abc@123
 
 
-Faculty Login:-
+**Student Login:-**
 
-ID      : raj@gmail.com
+  ID      : 2105101130
 
-Pass : 1234
+  Pass : Jenil
+
+
+**Faculty Login:-**
+
+  ID      : raj@gmail.com
+
+  Pass : 1234
