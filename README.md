@@ -1,5 +1,6 @@
 # AutomaticTimeTableCreation
-# Download zip file
+[ Download zip file](https://github.com/Jenil3797/AutomaticTimeTableCreation/archive/refs/heads/main.zip)
+
 1st Step: Firstly, Extract the file
 
 2nd Step: After that, Copy the main project folder
